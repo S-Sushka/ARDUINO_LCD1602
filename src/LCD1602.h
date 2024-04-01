@@ -51,7 +51,7 @@ public:
 	
 
 	void sendCommand(uint8_t command);
-	void sendData(uint8_t command);
+	void sendData(uint8_t data);
 	
 	
 	void begin();
